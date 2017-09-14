@@ -1,0 +1,1 @@
+Comentamos en clase varias veces que se tenía que entrear a : repl.it/EwS1, que es la plataforma que tiene la librería activa. Tú solo entraste a la plataforma repl.it sin la extención, por eso no te corrió. Dado que esto lo repet varias veecs en clase no puedo tomar esto como realizado. 
